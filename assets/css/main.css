@@ -2444,7 +2444,7 @@ input, select, textarea {
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #88e087;
+			color: #1c3e26;
 			content: '\f00c';
 		}
 
